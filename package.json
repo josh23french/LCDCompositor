@@ -1,0 +1,22 @@
+{
+  "name": "lcdcompositor",
+  "version": "1.0.0",
+  "description": "A simple Node module that composes text from different sources into a framebuffer; can autoscroll portions of text separately.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh23french/LCDCompositor.git"
+  },
+  "author": "Joshua French <joshuafrench@lbcde.org>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/josh23french/LCDCompositor/issues"
+  },
+  "homepage": "https://github.com/josh23french/LCDCompositor#readme",
+  "dependencies": {
+    "serialport": "^4.0.6"
+  }
+}
